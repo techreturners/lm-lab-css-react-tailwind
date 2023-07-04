@@ -1,12 +1,10 @@
-## Welcome to Marvelous Mansions - A one stop shop to your dream property!
+## 🏡 Welcome to Marvelous Mansions - A one stop shop to your dream property!
 
 The estate agents 'Marvelous Mansions' recently lost their lead developer half way through their new website design - which has left them in a 'realestate'! 😱
-
 
 ## The Task
 
 Your mission is to rapidly help Marvelous Mansions get their website looking as good as possible using [Tailwind](https://tailwindcss.com/)
-
 
 ## Guide
 
@@ -22,8 +20,10 @@ Your mission is to rapidly help Marvelous Mansions get their website looking as 
 
 - You can add the VSCode extension `Tailwind CSS IntelliSense` for autocomplete and Tailwind support
 
-- Bonus points if you can make the page responsive
+- Bonus points if you can make the page responsive 
 
-- Don't forget to check the docs!
+- Don't forget to check the docs 🗺
+
+Good luck! 🙌
 
 

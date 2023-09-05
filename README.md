@@ -7,7 +7,7 @@ The estate agents 'Marvelous Mansions' recently lost their lead developer half w
 
 Your mission is to rapidly help Marvelous Mansions get their website looking as good as possible using [Tailwind](https://tailwindcss.com/)
 
-- You will need to add Tailwind to the project, use this installation guide to help you:
+- You will need to add Tailwind to the project, use this installation guide to help you (note: you can skip step 1):
 https://tailwindcss.com/docs/guides/vite
 
 - Utility class cheat sheet here: https://tailwindcomponents.com/cheatsheet/

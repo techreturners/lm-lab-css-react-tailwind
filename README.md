@@ -10,8 +10,6 @@ They have finished their HTML and React, but they ran out of time to work on the
 
 Your mission is to help Marvelous Mansions get their website looking good as rapidly as possible using [Tailwind](https://tailwindcss.com/)
 
-- Utility class cheat sheet here: https://tailwindcomponents.com/cheatsheet/
-
 - Install Tailwind (see 'Get started' in the Tailwind documentation):
   https://tailwindcss.com/docs/guides/vite
 
@@ -33,7 +31,9 @@ Note: you can skip step 1 as your Vite app is already created for you
 
 - You're not required to change the React component structure, but feel free to create new components wherever you see fit or move things around! For example, in `card.tsx` it might make sense to create separate components for elements such as a heading component, an image component, etc. It's up to you!
 
-- You can add the VSCode extension `Tailwind CSS IntelliSense` for autocomplete and Tailwind support
+- You can use this utility class cheat sheet to help you: https://tailwindcomponents.com/cheatsheet/
+
+- You can also add the VSCode extension `Tailwind CSS IntelliSense` for autocomplete and Tailwind support
 
 - Bonus points if you can make the page responsive. Look at using built-in screen breakpoints, like this:
 

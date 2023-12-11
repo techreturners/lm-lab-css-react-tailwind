@@ -1,13 +1,13 @@
 export interface IProperty {
     property: {
-        location: string; 
-        country: string; 
-        property_type: string; 
-        bedroom_count: number; 
-        bathroom_count: number; 
-        price: string; 
-        image_urls: string[]; 
-        title: string; 
+        location: string;
+        country: string;
+        property_type: string;
+        bedroom_count: number;
+        bathroom_count: number;
+        price: string;
+        image_urls: string[];
+        title: string;
         description: string;
     };
 }
@@ -24,7 +24,7 @@ export const Card: React.FC<IProperty> = ({ property: { title, location, country
             <p>{bedroom_count}</p>
             <p>{bathroom_count}</p>
             <p>{price}</p>
-            <img src={image_urls[0]} />
+            <img src={image_urls[0]} alt={title} />
         </>
     )
 }

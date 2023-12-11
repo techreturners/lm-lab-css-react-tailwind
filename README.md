@@ -6,11 +6,11 @@ The estate agents 'Marvelous Mansions' recently lost their lead developer half w
 
 They have finished their HTML and React, but they ran out of time to work on the visual design.
 
-## The Task
+## 🗺️ The Task
 
 Your mission is to help Marvelous Mansions get their website looking good as rapidly as possible using [Tailwind](https://tailwindcss.com/)
 
-- Install Tailwind (see 'Get started' in the Tailwind documentation):
+You will need to install Tailwind (see 'Get started' in the Tailwind documentation):
   https://tailwindcss.com/docs/guides/vite
 
 Note: you can skip step 1 as your Vite app is already created for you

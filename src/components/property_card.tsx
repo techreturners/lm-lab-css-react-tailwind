@@ -23,7 +23,7 @@ export const PropertyCard: React.FC<{ property: Property }> = ({
 			<p>{bedroom_count}</p>
 			<p>{bathroom_count}</p>
 			<p>{price}</p>
-			<img src={image_urls[0]} />
+			<img src={image_urls[0]} alt={title} />
 		</>
 	);
 };
